@@ -14,18 +14,19 @@ h2{
 }
 
 .calculadora{ 
-    width: 390px;
+    width: 399px;
     margin: 5px auto;
     background-color: rgb(198, 207, 237);
     border: solid 2px;
     border-radius: 3%;
-    padding: 3px;
+    padding-left: 10px;
+    padding-right: 2px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 
 #pantalla{
-    width: 94%;
+    width: 92%;
     margin: 5px auto;
     padding: 5px;
     color: rgb(83, 208, 83);
