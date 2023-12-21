@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(147, 172, 233);
     font-family: Arial,sans-serif;
@@ -14,19 +15,18 @@ h2{
 }
 
 .calculadora{ 
-    width: 399px;
+    width: 383px;
     margin: 5px auto;
     background-color: rgb(198, 207, 237);
     border: solid 2px;
     border-radius: 3%;
     padding-left: 10px;
-    padding-right: 2px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding-right: 10px;
 }
 
 
 #pantalla{
-    width: 92%;
+    width: 96%;
     margin: 5px auto;
     padding: 5px;
     color: rgb(83, 208, 83);
@@ -37,7 +37,8 @@ h2{
 input[type="button"]{
   width: 71px; 
   height: 40px;
-  margin-right: 2px; 
+  margin-top: 2px;
+  margin-right: 2px;
   margin-bottom: 4px;
   border-radius: 5px;   
   background-color: rgb(229, 243, 251);

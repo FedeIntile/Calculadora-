@@ -1,6 +1,6 @@
 
 
-// value es el valor por defecto que tiene el input, en este caso es cero porque no esta declarado
+// value es el valor por defecto que tiene el input, en este caso es vacio porque no esta declarado
 //document.getElementById lee todo el html en busca del id
 function agregar(valor){
     document.getElementById("pantalla").value += valor
